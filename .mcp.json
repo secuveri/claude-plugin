@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "secuveri": {
+      "type": "http",
+      "url": "https://mcp.secuveri.com/mcp"
+    }
+  }
+}

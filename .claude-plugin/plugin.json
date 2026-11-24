@@ -1,0 +1,21 @@
+{
+  "name": "secuveri",
+  "version": "0.1.0",
+  "description": "Identity and age verification with secuveri: connects the secuveri MCP server and teaches Claude to build safe integrations (sessions, signed results, webhooks) and to design verification workflows.",
+  "author": {
+    "name": "secuveri GmbH",
+    "email": "hello@secuveri.com",
+    "url": "https://secuveri.com"
+  },
+  "homepage": "https://secuveri.com/docs",
+  "license": "MIT",
+  "keywords": [
+    "identity verification",
+    "kyc",
+    "age verification",
+    "webhooks",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://secuveri.com/privacy",
+  "icon": ".claude-plugin/icon.png"
+}
